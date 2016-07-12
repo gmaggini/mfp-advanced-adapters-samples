@@ -22,7 +22,7 @@
 
 	<displayName>Social Login adapter</displayName>
 	<description>
-        Provides integration with Google and Facebook sign-in.
+        Provides integration with Google, LinkedIn and Facebook sign-in.
         The client performs sign-in, obtains the vendor token, and sends it to the 'socialLogin' security check as a credentials parameter.
         The security check verifies the token with its vendor, and creates an MFP Authenticated User.
     </description>
